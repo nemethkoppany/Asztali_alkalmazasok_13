@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tanul\u00E1s\\Orai_anyagok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0BF7F3-0ACF-4CA1-A4AE-A7F9A9F2D37D}|Orai_anyagok\\Orai_anyagok.csproj|c:\\tanul\u00E1s\\orai_anyagok\\orai_anyagok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0BF7F3-0ACF-4CA1-A4AE-A7F9A9F2D37D}|Orai_anyagok\\Orai_anyagok.csproj|solutionrelative:orai_anyagok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Orai_anyagok\\Orai_anyagok\\Program.cs",
+              "RelativeDocumentMoniker": "Orai_anyagok\\Program.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Orai_anyagok\\Orai_anyagok\\Program.cs",
+              "RelativeToolTip": "Orai_anyagok\\Program.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAmwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:02:33.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

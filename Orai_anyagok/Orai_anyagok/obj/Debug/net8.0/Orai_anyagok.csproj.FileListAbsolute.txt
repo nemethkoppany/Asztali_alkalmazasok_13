@@ -1,0 +1,14 @@
+C:\Tanulás\Orai_anyagok\Orai_anyagok\bin\Debug\net8.0\Orai_anyagok.exe
+C:\Tanulás\Orai_anyagok\Orai_anyagok\bin\Debug\net8.0\Orai_anyagok.deps.json
+C:\Tanulás\Orai_anyagok\Orai_anyagok\bin\Debug\net8.0\Orai_anyagok.runtimeconfig.json
+C:\Tanulás\Orai_anyagok\Orai_anyagok\bin\Debug\net8.0\Orai_anyagok.dll
+C:\Tanulás\Orai_anyagok\Orai_anyagok\bin\Debug\net8.0\Orai_anyagok.pdb
+C:\Tanulás\Orai_anyagok\Orai_anyagok\obj\Debug\net8.0\Orai_anyagok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\Orai_anyagok\Orai_anyagok\obj\Debug\net8.0\Orai_anyagok.AssemblyInfoInputs.cache
+C:\Tanulás\Orai_anyagok\Orai_anyagok\obj\Debug\net8.0\Orai_anyagok.AssemblyInfo.cs
+C:\Tanulás\Orai_anyagok\Orai_anyagok\obj\Debug\net8.0\Orai_anyagok.csproj.CoreCompileInputs.cache
+C:\Tanulás\Orai_anyagok\Orai_anyagok\obj\Debug\net8.0\Orai_anyagok.dll
+C:\Tanulás\Orai_anyagok\Orai_anyagok\obj\Debug\net8.0\refint\Orai_anyagok.dll
+C:\Tanulás\Orai_anyagok\Orai_anyagok\obj\Debug\net8.0\Orai_anyagok.pdb
+C:\Tanulás\Orai_anyagok\Orai_anyagok\obj\Debug\net8.0\Orai_anyagok.genruntimeconfig.cache
+C:\Tanulás\Orai_anyagok\Orai_anyagok\obj\Debug\net8.0\ref\Orai_anyagok.dll
