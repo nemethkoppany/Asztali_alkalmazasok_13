@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\OOP dolgozat\\Kir\u00E1ndu\u00E1ls program(polimorfizmus)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{013817F6-2495-40DC-9DBB-E289AD4B486F}|Kir\u00E1ndu\u00E1ls program(polimorfizmus)\\Kir\u00E1ndu\u00E1ls program(polimorfizmus).csproj|c:\\tanul\u00E1s\\asztali_alkalmazasok_13\\oop dolgozat\\kir\u00E1ndu\u00E1ls program(polimorfizmus)\\kir\u00E1ndu\u00E1ls program(polimorfizmus)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013817F6-2495-40DC-9DBB-E289AD4B486F}|Kir\u00E1ndu\u00E1ls program(polimorfizmus)\\Kir\u00E1ndu\u00E1ls program(polimorfizmus).csproj|solutionrelative:kir\u00E1ndu\u00E1ls program(polimorfizmus)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\OOP dolgozat\\Kir\u00E1ndu\u00E1ls program(polimorfizmus)\\Kir\u00E1ndu\u00E1ls program(polimorfizmus)\\Program.cs",
+              "RelativeDocumentMoniker": "Kir\u00E1ndu\u00E1ls program(polimorfizmus)\\Program.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\OOP dolgozat\\Kir\u00E1ndu\u00E1ls program(polimorfizmus)\\Kir\u00E1ndu\u00E1ls program(polimorfizmus)\\Program.cs",
+              "RelativeToolTip": "Kir\u00E1ndu\u00E1ls program(polimorfizmus)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:55:46.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
