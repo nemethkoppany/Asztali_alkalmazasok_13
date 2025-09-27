@@ -1,0 +1,15 @@
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\bin\Debug\net8.0\OOP_dolgozat_Keszules.exe
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\bin\Debug\net8.0\OOP_dolgozat_Keszules.deps.json
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\bin\Debug\net8.0\OOP_dolgozat_Keszules.runtimeconfig.json
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\bin\Debug\net8.0\OOP_dolgozat_Keszules.dll
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\bin\Debug\net8.0\OOP_dolgozat_Keszules.pdb
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\obj\Debug\net8.0\OOP_dolgozat_Keszules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\obj\Debug\net8.0\OOP_dolgozat_Keszules.AssemblyInfoInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\obj\Debug\net8.0\OOP_dolgozat_Keszules.AssemblyInfo.cs
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\obj\Debug\net8.0\OOP_dolgozat_Keszules.csproj.CoreCompileInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\obj\Debug\net8.0\OOP_dolgozat_Keszules.sourcelink.json
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\obj\Debug\net8.0\OOP_dolgozat_Keszules.dll
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\obj\Debug\net8.0\refint\OOP_dolgozat_Keszules.dll
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\obj\Debug\net8.0\OOP_dolgozat_Keszules.pdb
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\obj\Debug\net8.0\OOP_dolgozat_Keszules.genruntimeconfig.cache
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP_dolgozat_Keszules\OOP_dolgozat_Keszules\obj\Debug\net8.0\ref\OOP_dolgozat_Keszules.dll

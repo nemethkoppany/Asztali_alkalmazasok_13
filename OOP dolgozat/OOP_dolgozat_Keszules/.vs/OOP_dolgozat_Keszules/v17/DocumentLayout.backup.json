@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\OOP dolgozat\\OOP_dolgozat_Keszules\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D0AA75-A9A6-4538-80ED-5F8EFAF79346}|OOP_dolgozat_Keszules\\OOP_dolgozat_Keszules.csproj|c:\\tanul\u00E1s\\asztali_alkalmazasok_13\\oop dolgozat\\oop_dolgozat_keszules\\oop_dolgozat_keszules\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D0AA75-A9A6-4538-80ED-5F8EFAF79346}|OOP_dolgozat_Keszules\\OOP_dolgozat_Keszules.csproj|solutionrelative:oop_dolgozat_keszules\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\OOP dolgozat\\OOP_dolgozat_Keszules\\OOP_dolgozat_Keszules\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_dolgozat_Keszules\\Program.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\OOP dolgozat\\OOP_dolgozat_Keszules\\OOP_dolgozat_Keszules\\Program.cs",
+              "RelativeToolTip": "OOP_dolgozat_Keszules\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA7wGYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T16:23:04.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
