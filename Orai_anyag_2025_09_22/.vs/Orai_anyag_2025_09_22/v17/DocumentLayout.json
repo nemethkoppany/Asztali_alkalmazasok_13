@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\Orai_anyag_2025_09_22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{007C7E9F-FF97-4BB3-95F7-8DAC4086290A}|Orai_anyag_2025_09_22\\Orai_anyag_2025_09_22.csproj|c:\\tanul\u00E1s\\asztali_alkalmazasok_13\\orai_anyag_2025_09_22\\orai_anyag_2025_09_22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007C7E9F-FF97-4BB3-95F7-8DAC4086290A}|Orai_anyag_2025_09_22\\Orai_anyag_2025_09_22.csproj|solutionrelative:orai_anyag_2025_09_22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\Orai_anyag_2025_09_22\\Orai_anyag_2025_09_22\\Program.cs",
+              "RelativeDocumentMoniker": "Orai_anyag_2025_09_22\\Program.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\Orai_anyag_2025_09_22\\Orai_anyag_2025_09_22\\Program.cs",
+              "RelativeToolTip": "Orai_anyag_2025_09_22\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:58:57.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

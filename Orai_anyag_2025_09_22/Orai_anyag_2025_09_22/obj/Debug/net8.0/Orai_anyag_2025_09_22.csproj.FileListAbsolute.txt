@@ -1,0 +1,15 @@
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\bin\Debug\net8.0\Orai_anyag_2025_09_22.exe
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\bin\Debug\net8.0\Orai_anyag_2025_09_22.deps.json
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\bin\Debug\net8.0\Orai_anyag_2025_09_22.runtimeconfig.json
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\bin\Debug\net8.0\Orai_anyag_2025_09_22.dll
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\bin\Debug\net8.0\Orai_anyag_2025_09_22.pdb
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\obj\Debug\net8.0\Orai_anyag_2025_09_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\obj\Debug\net8.0\Orai_anyag_2025_09_22.AssemblyInfoInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\obj\Debug\net8.0\Orai_anyag_2025_09_22.AssemblyInfo.cs
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\obj\Debug\net8.0\Orai_anyag_2025_09_22.csproj.CoreCompileInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\obj\Debug\net8.0\Orai_anyag_2025_09_22.sourcelink.json
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\obj\Debug\net8.0\Orai_anyag_2025_09_22.dll
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\obj\Debug\net8.0\refint\Orai_anyag_2025_09_22.dll
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\obj\Debug\net8.0\Orai_anyag_2025_09_22.pdb
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\obj\Debug\net8.0\Orai_anyag_2025_09_22.genruntimeconfig.cache
+C:\Tanulás\Asztali_alkalmazasok_13\Orai_anyag_2025_09_22\Orai_anyag_2025_09_22\obj\Debug\net8.0\ref\Orai_anyag_2025_09_22.dll
