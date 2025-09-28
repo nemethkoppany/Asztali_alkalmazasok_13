@@ -11,17 +11,6 @@
             //Pontosan mi is az a polimorfizmus?
         }
 
-        List<Program>Resztvevok = new List<Program>();
-
-        private string nev;
-        private int eletkor;
-        private string osztaly;
-        private string szak;
-
-        public string Nev
-        {
-            get { return nev; }
-            set { nev = value; }
         }
 
         public int Eletkor
@@ -58,18 +47,5 @@
             return $"{Nev} éppen egy tevékenységet végez";
         }
         
-        public void Felvesz(Program tanulo)
-        {
-            Resztvevok.Add(tanulo);
-        }
-
-        public void Listaz()
-        {
-            foreach (Program t in Resztvevok)
-            {
-                t.Bemutatkozas();
-                t.Tevekenyseg();
-            }
-        }
     }
 }
