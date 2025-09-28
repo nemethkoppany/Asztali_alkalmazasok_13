@@ -1,0 +1,15 @@
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\bin\Debug\net8.0\Kiránduáls program(polimorfizmus).exe
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\bin\Debug\net8.0\Kiránduáls program(polimorfizmus).deps.json
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\bin\Debug\net8.0\Kiránduáls program(polimorfizmus).runtimeconfig.json
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\bin\Debug\net8.0\Kiránduáls program(polimorfizmus).dll
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\bin\Debug\net8.0\Kiránduáls program(polimorfizmus).pdb
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\obj\Debug\net8.0\Kiránduáls program(polimorfizmus).GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\obj\Debug\net8.0\Kiránduáls program(polimorfizmus).AssemblyInfoInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\obj\Debug\net8.0\Kiránduáls program(polimorfizmus).AssemblyInfo.cs
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\obj\Debug\net8.0\Kiránduáls program(polimorfizmus).csproj.CoreCompileInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\obj\Debug\net8.0\Kiránduáls program(polimorfizmus).sourcelink.json
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\obj\Debug\net8.0\Kiránduáls program(polimorfizmus).dll
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\obj\Debug\net8.0\refint\Kiránduáls program(polimorfizmus).dll
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\obj\Debug\net8.0\Kiránduáls program(polimorfizmus).pdb
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\obj\Debug\net8.0\Kiránduáls program(polimorfizmus).genruntimeconfig.cache
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\Kiránduáls program(polimorfizmus)\Kiránduáls program(polimorfizmus)\obj\Debug\net8.0\ref\Kiránduáls program(polimorfizmus).dll

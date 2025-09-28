@@ -3,14 +3,31 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
-            //Szükség lesz még példányosításra
-            //Külön osztályokba kell ezt rendezni mert rosszult értelmeztem a feladatot
-            //Technikailag már megvan minden a szorgalmit leszámítva de majd úgy is át kell írni a dolgokat
-            //TanarSegito osztály még szükséges
-            //Pontosan mi is az a polimorfizmus?
+        {   
+            Tanulo tanulo1 = new Tanulo("Anna",17,"11.B");
+            Tanulo tanulo2 = new Tanulo("Peti",18,"12.A");
+            TanarSegito tanar = new TanarSegito("Béla", 36, "Matek", "felügyel");
+
+            Resztvevo.Felvesz(tanulo1);
+            Resztvevo.Felvesz(tanulo2);
+            Resztvevo.Felvesz(tanar);
+
+            Resztvevo.Kiiratas();
+
+            
         }
 
+    }
+
+    public abstract class Resztvevo
+    {
+        private string nev;
+        private int eletkor;
+
+        public string Nev
+        {
+            get { return nev; }
+            set { nev = value; }
         }
 
         public int Eletkor
@@ -19,33 +36,91 @@
             set { eletkor = value; }
         }
 
-        public string Osztaly
+        public Resztvevo(string nev,int eletkor)
         {
-            get { return osztaly; }
-            set { osztaly = value; }
-        }
-
-        public string Szak
-        {
-            get { return szak; }
-            set { szak = value; }
-        }
-
-        public Program(int eletkor, string nev)
-        {
-            Eletkor = eletkor;
             Nev = nev;
+            Eletkor = eletkor;
         }
 
-        public string Bemutatkozas()
+        
+
+        public virtual string Bemutatkozas()
         {
-            return $"Szia, a nevem {Nev}, {Eletkor} éves vagyok. A {Osztaly}ba/be járok.";
+            return $"Szia a nevem {Nev} és {Eletkor} éves vagyok.";
         }
 
         public virtual string Tevekenyseg()
         {
-            return $"{Nev} éppen egy tevékenységet végez";
+            return $"{Nev} a gyerekek biztonságát felügyeli";
+        }
+
+        private static List<Resztvevo> resztvevok = new List<Resztvevo>();
+        public static void Felvesz(Resztvevo resztvevo)
+        {
+            resztvevok.Add(resztvevo);
+        }
+
+        public static void Kiiratas()
+        {
+            foreach(var resztvevo in resztvevok)
+            {
+                Console.WriteLine(resztvevo.Bemutatkozas());
+                Console.WriteLine(resztvevo.Tevekenyseg());
+            }
         }
         
+    }
+
+    class Tanulo : Resztvevo
+    {
+        public string osztaly;
+        public Tanulo(string Nev, int Eletkor, string osztaly) : base(Nev,Eletkor)
+        {
+            this.osztaly = osztaly;
+        }
+
+        public override string Bemutatkozas()
+        {
+            return $"Szia, a nevem {Nev} és {Eletkor} éves vagyok. A(z) {osztaly}-ba/be járok";
+        }
+
+        public override string Tevekenyseg() 
+        {
+            return $"{Nev} teniszezik";
+        }
+    }
+
+    class Tanar : Resztvevo
+    {
+        public string szak;
+        public Tanar(string Nev, int Eletkor, string szak) : base(Nev, Eletkor)
+        {
+            this.szak = szak;
+        }
+
+        public override string Bemutatkozas()
+        {
+            return $"Szia, a nevem {Nev} és {Eletkor} éves vagyok. A szakom: {szak}";
+        }
+
+        public override string Tevekenyseg()
+        {
+            return $"{Nev} éppen úszik.";
+        }
+    }
+
+    class TanarSegito : Tanar
+    {
+        public string felelosseg;
+
+        public TanarSegito(string Nev, int Eletkor, string szak ,string  felelosseg) : base(Nev,Eletkor,szak)
+        {
+            this.felelosseg = felelosseg;
+        }
+
+        public override string Tevekenyseg()
+        {
+            return $"{Nev} a következő tevékenységet végzi: {felelosseg}.";
+        }
     }
 }
