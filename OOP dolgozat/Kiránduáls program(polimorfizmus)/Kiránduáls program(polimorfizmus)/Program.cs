@@ -13,7 +13,7 @@
             Resztvevo.Felvesz(tanar);
 
             Resztvevo.Kiiratas();
-
+            Console.WriteLine(tanulo2.Tevekenyseg("Focit"));
             
         }
 
@@ -87,6 +87,10 @@
         public override string Tevekenyseg() 
         {
             return $"{Nev} teniszezik";
+        }
+        public string Tevekenyseg(string sport)
+        {
+            return $"{Nev} {sport} sportol";
         }
     }
 
