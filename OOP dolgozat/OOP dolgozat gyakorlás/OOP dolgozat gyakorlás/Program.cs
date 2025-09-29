@@ -8,6 +8,7 @@ namespace OOP_dolgozat_gyakorlás
         {
             Tanulo tanulo = new Tanulo("Anna", 17);
             Console.WriteLine(tanulo.Tevekenyseg());
+            Console.WriteLine(tanulo.Tevekenyseg("futás"));
             Console.WriteLine(tanulo.Bemutatkozas());
 
             Tanar tanar = new Tanar("Béla", 34);
@@ -71,7 +72,11 @@ namespace OOP_dolgozat_gyakorlás
         {
             return $"Szia, a nevem {nev} és {eletkor} éves vagyok és a {Osztaly} osztályba járok. A kedvenc tevékenységem az evezés";
         }
-
+        // --- Túlterhelés: plusz paraméterrel ---
+        public string Tevekenyseg(string sport)
+        {
+            return $"{nev} ({eletkor} éves, {Osztaly}) éppen {sport}-t csinál.";
+        }
         public override string Bemutatkozas()
         {
             return $"Szia, a nevem {nev} és {eletkor} éves vagyok és a {Osztaly} osztályba járok";

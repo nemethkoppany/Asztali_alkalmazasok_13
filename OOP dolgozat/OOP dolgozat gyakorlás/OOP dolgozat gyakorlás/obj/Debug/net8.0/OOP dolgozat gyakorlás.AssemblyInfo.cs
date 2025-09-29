@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP dolgozat gyakorlás")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70ffa31e859d994e1143a71c43b91d2a36bbecb1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53d3f8f768f2bafbceb320dbfb90be4f6acd0442")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP dolgozat gyakorlás")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP dolgozat gyakorlás")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

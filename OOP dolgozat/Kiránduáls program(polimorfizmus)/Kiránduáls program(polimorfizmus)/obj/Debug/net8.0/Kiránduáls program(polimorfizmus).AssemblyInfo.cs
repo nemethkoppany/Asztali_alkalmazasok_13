@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kiránduáls program(polimorfizmus)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5821e523dfbce87ab0e6ca3deeaa5c91f1f57702")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53d3f8f768f2bafbceb320dbfb90be4f6acd0442")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kiránduáls program(polimorfizmus)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kiránduáls program(polimorfizmus)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

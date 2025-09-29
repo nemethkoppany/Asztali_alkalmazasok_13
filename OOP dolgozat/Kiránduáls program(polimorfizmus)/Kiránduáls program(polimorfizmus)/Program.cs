@@ -19,7 +19,7 @@
 
     }
 
-    public abstract class Resztvevo
+    public class Resztvevo
     {
         private string nev;
         private int eletkor;
