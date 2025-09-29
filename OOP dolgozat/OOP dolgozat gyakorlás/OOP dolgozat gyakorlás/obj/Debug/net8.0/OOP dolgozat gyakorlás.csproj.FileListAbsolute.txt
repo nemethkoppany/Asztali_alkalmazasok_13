@@ -1,0 +1,15 @@
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\bin\Debug\net8.0\OOP dolgozat gyakorlás.exe
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\bin\Debug\net8.0\OOP dolgozat gyakorlás.deps.json
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\bin\Debug\net8.0\OOP dolgozat gyakorlás.runtimeconfig.json
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\bin\Debug\net8.0\OOP dolgozat gyakorlás.dll
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\bin\Debug\net8.0\OOP dolgozat gyakorlás.pdb
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\obj\Debug\net8.0\OOP dolgozat gyakorlás.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\obj\Debug\net8.0\OOP dolgozat gyakorlás.AssemblyInfoInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\obj\Debug\net8.0\OOP dolgozat gyakorlás.AssemblyInfo.cs
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\obj\Debug\net8.0\OOP dolgozat gyakorlás.csproj.CoreCompileInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\obj\Debug\net8.0\OOP dolgozat gyakorlás.sourcelink.json
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\obj\Debug\net8.0\OOP dolgozat gyakorlás.dll
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\obj\Debug\net8.0\refint\OOP dolgozat gyakorlás.dll
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\obj\Debug\net8.0\OOP dolgozat gyakorlás.pdb
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\obj\Debug\net8.0\OOP dolgozat gyakorlás.genruntimeconfig.cache
+C:\Tanulás\Asztali_alkalmazasok_13\OOP dolgozat\OOP dolgozat gyakorlás\OOP dolgozat gyakorlás\obj\Debug\net8.0\ref\OOP dolgozat gyakorlás.dll

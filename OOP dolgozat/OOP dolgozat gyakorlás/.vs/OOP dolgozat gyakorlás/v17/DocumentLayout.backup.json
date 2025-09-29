@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\OOP dolgozat\\OOP dolgozat gyakorl\u00E1s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{649A7D93-C477-43A1-8834-69567085F8DA}|OOP dolgozat gyakorl\u00E1s\\OOP dolgozat gyakorl\u00E1s.csproj|c:\\tanul\u00E1s\\asztali_alkalmazasok_13\\oop dolgozat\\oop dolgozat gyakorl\u00E1s\\oop dolgozat gyakorl\u00E1s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649A7D93-C477-43A1-8834-69567085F8DA}|OOP dolgozat gyakorl\u00E1s\\OOP dolgozat gyakorl\u00E1s.csproj|solutionrelative:oop dolgozat gyakorl\u00E1s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\OOP dolgozat\\OOP dolgozat gyakorl\u00E1s\\OOP dolgozat gyakorl\u00E1s\\Program.cs",
+              "RelativeDocumentMoniker": "OOP dolgozat gyakorl\u00E1s\\Program.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\OOP dolgozat\\OOP dolgozat gyakorl\u00E1s\\OOP dolgozat gyakorl\u00E1s\\Program.cs",
+              "RelativeToolTip": "OOP dolgozat gyakorl\u00E1s\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:37:10.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

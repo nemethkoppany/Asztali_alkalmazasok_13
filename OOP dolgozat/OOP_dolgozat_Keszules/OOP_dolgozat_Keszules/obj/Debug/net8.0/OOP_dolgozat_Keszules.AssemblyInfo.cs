@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP_dolgozat_Keszules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a127ab394cca4fcc9fbff1bbbae2763ff2a6ec29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70ffa31e859d994e1143a71c43b91d2a36bbecb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP_dolgozat_Keszules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP_dolgozat_Keszules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
