@@ -1,0 +1,14 @@
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\bin\Debug\net8.0\Könyvtár_Dolgozat.exe
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\bin\Debug\net8.0\Könyvtár_Dolgozat.deps.json
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\bin\Debug\net8.0\Könyvtár_Dolgozat.runtimeconfig.json
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\bin\Debug\net8.0\Könyvtár_Dolgozat.dll
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\bin\Debug\net8.0\Könyvtár_Dolgozat.pdb
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\obj\Debug\net8.0\Könyvtár_Dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\obj\Debug\net8.0\Könyvtár_Dolgozat.AssemblyInfoInputs.cache
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\obj\Debug\net8.0\Könyvtár_Dolgozat.AssemblyInfo.cs
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\obj\Debug\net8.0\Könyvtár_Dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\obj\Debug\net8.0\Könyvtár_Dolgozat.dll
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\obj\Debug\net8.0\refint\Könyvtár_Dolgozat.dll
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\obj\Debug\net8.0\Könyvtár_Dolgozat.pdb
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\obj\Debug\net8.0\Könyvtár_Dolgozat.genruntimeconfig.cache
+C:\Users\nemeth.koppany\Desktop\Könyvtár_Dolgozat\Könyvtár_Dolgozat\obj\Debug\net8.0\ref\Könyvtár_Dolgozat.dll

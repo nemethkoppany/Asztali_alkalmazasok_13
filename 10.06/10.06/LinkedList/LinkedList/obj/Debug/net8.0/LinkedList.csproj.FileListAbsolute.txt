@@ -1,0 +1,14 @@
+H:\13\Asztali\10.06\LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.exe
+H:\13\Asztali\10.06\LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.deps.json
+H:\13\Asztali\10.06\LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.runtimeconfig.json
+H:\13\Asztali\10.06\LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.dll
+H:\13\Asztali\10.06\LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.pdb
+H:\13\Asztali\10.06\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\Asztali\10.06\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+H:\13\Asztali\10.06\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+H:\13\Asztali\10.06\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
+H:\13\Asztali\10.06\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.dll
+H:\13\Asztali\10.06\LinkedList\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
+H:\13\Asztali\10.06\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.pdb
+H:\13\Asztali\10.06\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
+H:\13\Asztali\10.06\LinkedList\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll

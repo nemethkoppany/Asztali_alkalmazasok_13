@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\LinkedList.csproj", "{9EEC09AA-9362-48F7-991C-4BADEE16F91D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListstTests", "LinkedListstTests\LinkedListstTests.csproj", "{CCD1B90F-C441-4220-A5CF-4A0BBEAA9406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EEC09AA-9362-48F7-991C-4BADEE16F91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEC09AA-9362-48F7-991C-4BADEE16F91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEC09AA-9362-48F7-991C-4BADEE16F91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEC09AA-9362-48F7-991C-4BADEE16F91D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD1B90F-C441-4220-A5CF-4A0BBEAA9406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD1B90F-C441-4220-A5CF-4A0BBEAA9406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD1B90F-C441-4220-A5CF-4A0BBEAA9406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD1B90F-C441-4220-A5CF-4A0BBEAA9406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC1C3852-3444-4ED1-AB7B-A3D947D7830F}
+	EndGlobalSection
+EndGlobal
