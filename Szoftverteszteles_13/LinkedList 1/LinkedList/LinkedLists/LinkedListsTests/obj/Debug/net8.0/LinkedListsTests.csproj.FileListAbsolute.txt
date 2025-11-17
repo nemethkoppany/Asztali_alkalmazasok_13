@@ -1,0 +1,5 @@
+H:\13\Asztali\LinkedList\LinkedLists\LinkedListsTests\obj\Debug\net8.0\LinkedListsTests.csproj.AssemblyReference.cache
+H:\13\Asztali\LinkedList\LinkedLists\LinkedListsTests\obj\Debug\net8.0\LinkedListsTests.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\Asztali\LinkedList\LinkedLists\LinkedListsTests\obj\Debug\net8.0\LinkedListsTests.AssemblyInfoInputs.cache
+H:\13\Asztali\LinkedList\LinkedLists\LinkedListsTests\obj\Debug\net8.0\LinkedListsTests.AssemblyInfo.cs
+H:\13\Asztali\LinkedList\LinkedLists\LinkedListsTests\obj\Debug\net8.0\LinkedListsTests.csproj.CoreCompileInputs.cache
