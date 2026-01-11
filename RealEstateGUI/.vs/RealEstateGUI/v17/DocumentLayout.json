@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\13\\Asztali\\RealEstateGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|h:\\13\\asztali\\realestategui\\realestategui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|solutionrelative:realestategui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|H:\\13\\Asztali\\RealEstateGUI\\realestategui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|solutionrelative:realestategui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|h:\\13\\asztali\\realestategui\\realestategui\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|solutionrelative:realestategui\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|h:\\13\\asztali\\realestategui\\realestategui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|solutionrelative:realestategui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\RealEstateGUI\\RealEstateGUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RealEstateGUI\\Form1.Designer.cs",
+              "ToolTip": "H:\\13\\Asztali\\RealEstateGUI\\RealEstateGUI\\Form1.Designer.cs",
+              "RelativeToolTip": "RealEstateGUI\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:44:30.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\RealEstateGUI\\RealEstateGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "RealEstateGUI\\Form1.cs",
+              "ToolTip": "H:\\13\\Asztali\\RealEstateGUI\\RealEstateGUI\\Form1.cs",
+              "RelativeToolTip": "RealEstateGUI\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwCoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:45:34.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "H:\\13\\Asztali\\RealEstateGUI\\RealEstateGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "RealEstateGUI\\Form1.cs",
+              "ToolTip": "H:\\13\\Asztali\\RealEstateGUI\\RealEstateGUI\\Form1.cs [Design]",
+              "RelativeToolTip": "RealEstateGUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:36:44.445Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseController.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\RealEstateGUI\\RealEstateGUI\\DatabaseController.cs",
+              "RelativeDocumentMoniker": "RealEstateGUI\\DatabaseController.cs",
+              "ToolTip": "H:\\13\\Asztali\\RealEstateGUI\\RealEstateGUI\\DatabaseController.cs",
+              "RelativeToolTip": "RealEstateGUI\\DatabaseController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:56:34.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
