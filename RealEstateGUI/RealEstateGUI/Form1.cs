@@ -54,3 +54,11 @@ namespace RealEstateGUI
         }
     }
 }
+
+
+//(Ezeke a XAMPP-os felületbe kellenek)
+//14. feladat
+//CREATE OR REPLACE PROCEDURE elado_telefonszama(nev VARCHAR(50)) SELECT phone FROM sellers WHERE name = nev;
+
+//15.feladat
+//CREATE OR REPLACE PROCEDURE hirdetesek_szama(nev VARCHAR(50)) SELECT COUNT(*) FROM sellers INNER JOIN realestates ON sellers.id = realestates.sellerId WHERE sellers.name = nev;
