@@ -1,0 +1,14 @@
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\obj\Debug\net8.0\netflix_Nemeth_Koppany.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\obj\Debug\net8.0\netflix_Nemeth_Koppany.AssemblyInfoInputs.cache
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\obj\Debug\net8.0\netflix_Nemeth_Koppany.AssemblyInfo.cs
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\obj\Debug\net8.0\netflix_Nemeth_Koppany.csproj.CoreCompileInputs.cache
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\bin\Debug\net8.0\netflix_Nemeth_Koppany.exe
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\bin\Debug\net8.0\netflix_Nemeth_Koppany.deps.json
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\bin\Debug\net8.0\netflix_Nemeth_Koppany.runtimeconfig.json
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\bin\Debug\net8.0\netflix_Nemeth_Koppany.dll
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\bin\Debug\net8.0\netflix_Nemeth_Koppany.pdb
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\obj\Debug\net8.0\netflix_Nemeth_Koppany.dll
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\obj\Debug\net8.0\refint\netflix_Nemeth_Koppany.dll
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\obj\Debug\net8.0\netflix_Nemeth_Koppany.pdb
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\obj\Debug\net8.0\netflix_Nemeth_Koppany.genruntimeconfig.cache
+H:\13\Asztali\netflix_Nemeth_Koppany\netflix_Nemeth_Koppany\obj\Debug\net8.0\ref\netflix_Nemeth_Koppany.dll
