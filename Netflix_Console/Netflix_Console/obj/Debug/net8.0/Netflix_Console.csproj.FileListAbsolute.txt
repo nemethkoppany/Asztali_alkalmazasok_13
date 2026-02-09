@@ -1,0 +1,15 @@
+H:\13\Asztali\Netflix_Console\Netflix_Console\bin\Debug\net8.0\Netflix_Console.exe
+H:\13\Asztali\Netflix_Console\Netflix_Console\bin\Debug\net8.0\netflix_movies.csv
+H:\13\Asztali\Netflix_Console\Netflix_Console\bin\Debug\net8.0\Netflix_Console.deps.json
+H:\13\Asztali\Netflix_Console\Netflix_Console\bin\Debug\net8.0\Netflix_Console.runtimeconfig.json
+H:\13\Asztali\Netflix_Console\Netflix_Console\bin\Debug\net8.0\Netflix_Console.dll
+H:\13\Asztali\Netflix_Console\Netflix_Console\bin\Debug\net8.0\Netflix_Console.pdb
+H:\13\Asztali\Netflix_Console\Netflix_Console\obj\Debug\net8.0\Netflix_Console.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\Asztali\Netflix_Console\Netflix_Console\obj\Debug\net8.0\Netflix_Console.AssemblyInfoInputs.cache
+H:\13\Asztali\Netflix_Console\Netflix_Console\obj\Debug\net8.0\Netflix_Console.AssemblyInfo.cs
+H:\13\Asztali\Netflix_Console\Netflix_Console\obj\Debug\net8.0\Netflix_Console.csproj.CoreCompileInputs.cache
+H:\13\Asztali\Netflix_Console\Netflix_Console\obj\Debug\net8.0\Netflix_Console.dll
+H:\13\Asztali\Netflix_Console\Netflix_Console\obj\Debug\net8.0\refint\Netflix_Console.dll
+H:\13\Asztali\Netflix_Console\Netflix_Console\obj\Debug\net8.0\Netflix_Console.pdb
+H:\13\Asztali\Netflix_Console\Netflix_Console\obj\Debug\net8.0\Netflix_Console.genruntimeconfig.cache
+H:\13\Asztali\Netflix_Console\Netflix_Console\obj\Debug\net8.0\ref\Netflix_Console.dll

@@ -1,0 +1,15 @@
+H:\13\Asztali\konyvek\konyvek\bin\Debug\net8.0\konyvek.exe
+H:\13\Asztali\konyvek\konyvek\bin\Debug\net8.0\kiadas.txt
+H:\13\Asztali\konyvek\konyvek\bin\Debug\net8.0\konyvek.deps.json
+H:\13\Asztali\konyvek\konyvek\bin\Debug\net8.0\konyvek.runtimeconfig.json
+H:\13\Asztali\konyvek\konyvek\bin\Debug\net8.0\konyvek.dll
+H:\13\Asztali\konyvek\konyvek\bin\Debug\net8.0\konyvek.pdb
+H:\13\Asztali\konyvek\konyvek\obj\Debug\net8.0\konyvek.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\Asztali\konyvek\konyvek\obj\Debug\net8.0\konyvek.AssemblyInfoInputs.cache
+H:\13\Asztali\konyvek\konyvek\obj\Debug\net8.0\konyvek.AssemblyInfo.cs
+H:\13\Asztali\konyvek\konyvek\obj\Debug\net8.0\konyvek.csproj.CoreCompileInputs.cache
+H:\13\Asztali\konyvek\konyvek\obj\Debug\net8.0\konyvek.dll
+H:\13\Asztali\konyvek\konyvek\obj\Debug\net8.0\refint\konyvek.dll
+H:\13\Asztali\konyvek\konyvek\obj\Debug\net8.0\konyvek.pdb
+H:\13\Asztali\konyvek\konyvek\obj\Debug\net8.0\konyvek.genruntimeconfig.cache
+H:\13\Asztali\konyvek\konyvek\obj\Debug\net8.0\ref\konyvek.dll

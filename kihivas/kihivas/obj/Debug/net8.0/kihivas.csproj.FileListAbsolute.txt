@@ -1,0 +1,14 @@
+H:\13\Asztali\kihivas\kihivas\bin\Debug\net8.0\kihivas.exe
+H:\13\Asztali\kihivas\kihivas\bin\Debug\net8.0\kihivas.deps.json
+H:\13\Asztali\kihivas\kihivas\bin\Debug\net8.0\kihivas.runtimeconfig.json
+H:\13\Asztali\kihivas\kihivas\bin\Debug\net8.0\kihivas.dll
+H:\13\Asztali\kihivas\kihivas\bin\Debug\net8.0\kihivas.pdb
+H:\13\Asztali\kihivas\kihivas\obj\Debug\net8.0\kihivas.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\Asztali\kihivas\kihivas\obj\Debug\net8.0\kihivas.AssemblyInfoInputs.cache
+H:\13\Asztali\kihivas\kihivas\obj\Debug\net8.0\kihivas.AssemblyInfo.cs
+H:\13\Asztali\kihivas\kihivas\obj\Debug\net8.0\kihivas.csproj.CoreCompileInputs.cache
+H:\13\Asztali\kihivas\kihivas\obj\Debug\net8.0\kihivas.dll
+H:\13\Asztali\kihivas\kihivas\obj\Debug\net8.0\refint\kihivas.dll
+H:\13\Asztali\kihivas\kihivas\obj\Debug\net8.0\kihivas.pdb
+H:\13\Asztali\kihivas\kihivas\obj\Debug\net8.0\kihivas.genruntimeconfig.cache
+H:\13\Asztali\kihivas\kihivas\obj\Debug\net8.0\ref\kihivas.dll

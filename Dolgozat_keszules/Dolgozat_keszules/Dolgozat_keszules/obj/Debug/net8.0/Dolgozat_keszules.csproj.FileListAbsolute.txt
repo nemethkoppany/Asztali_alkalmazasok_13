@@ -1,0 +1,14 @@
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\bin\Debug\net8.0\Dolgozat_keszules.exe
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\bin\Debug\net8.0\Dolgozat_keszules.deps.json
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\bin\Debug\net8.0\Dolgozat_keszules.runtimeconfig.json
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\bin\Debug\net8.0\Dolgozat_keszules.dll
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\bin\Debug\net8.0\Dolgozat_keszules.pdb
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\obj\Debug\net8.0\Dolgozat_keszules.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\obj\Debug\net8.0\Dolgozat_keszules.AssemblyInfoInputs.cache
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\obj\Debug\net8.0\Dolgozat_keszules.AssemblyInfo.cs
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\obj\Debug\net8.0\Dolgozat_keszules.csproj.CoreCompileInputs.cache
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\obj\Debug\net8.0\Dolgozat_keszules.dll
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\obj\Debug\net8.0\refint\Dolgozat_keszules.dll
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\obj\Debug\net8.0\Dolgozat_keszules.pdb
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\obj\Debug\net8.0\Dolgozat_keszules.genruntimeconfig.cache
+H:\13\Asztali\Dolgozat_keszules\Dolgozat_keszules\Dolgozat_keszules\obj\Debug\net8.0\ref\Dolgozat_keszules.dll
