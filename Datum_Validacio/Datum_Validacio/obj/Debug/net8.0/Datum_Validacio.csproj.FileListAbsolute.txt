@@ -1,0 +1,15 @@
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\bin\Debug\net8.0\Datum_Validacio.exe
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\bin\Debug\net8.0\Datum_Validacio.deps.json
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\bin\Debug\net8.0\Datum_Validacio.runtimeconfig.json
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\bin\Debug\net8.0\Datum_Validacio.dll
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\bin\Debug\net8.0\Datum_Validacio.pdb
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\obj\Debug\net8.0\Datum_Validacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\obj\Debug\net8.0\Datum_Validacio.AssemblyInfoInputs.cache
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\obj\Debug\net8.0\Datum_Validacio.AssemblyInfo.cs
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\obj\Debug\net8.0\Datum_Validacio.csproj.CoreCompileInputs.cache
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\obj\Debug\net8.0\Datum_Validacio.sourcelink.json
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\obj\Debug\net8.0\Datum_Validacio.dll
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\obj\Debug\net8.0\refint\Datum_Validacio.dll
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\obj\Debug\net8.0\Datum_Validacio.pdb
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\obj\Debug\net8.0\Datum_Validacio.genruntimeconfig.cache
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\Datum_Validacio\Datum_Validacio\obj\Debug\net8.0\ref\Datum_Validacio.dll
