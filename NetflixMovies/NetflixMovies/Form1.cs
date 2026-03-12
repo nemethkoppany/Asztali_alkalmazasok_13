@@ -1,4 +1,5 @@
 using MySql.Data.MySqlClient;
+using Org.BouncyCastle.Asn1;
 
 namespace NetflixMovies
 {
@@ -23,7 +24,7 @@ namespace NetflixMovies
             while (reader.Read())
             {
                 decimal ertekeles = decimal.Parse(reader[2].ToString());
-                if(ertekeles >= tol_numericUpDown.Value && ertekeles <= ig_NumericUpDown.Value)
+                if (ertekeles >= tol_numericUpDown.Value && ertekeles <= ig_NumericUpDown.Value)
                 {
                     dataGridView1.Rows.Add(reader["cím"], reader["rendezo"], reader["ertekeles"], reader["nyelv"], reader["hozzaadas_datum"]);
                 }
