@@ -1,0 +1,58 @@
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.exe
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.deps.json
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.runtimeconfig.json
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.dll
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.pdb
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.AssemblyInfoInputs.cache
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.AssemblyInfo.cs
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.dll
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\refint\LambdaEsLinqTananyag.dll
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.pdb
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.genruntimeconfig.cache
+C:\Users\Marci\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\ref\LambdaEsLinqTananyag.dll
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.AssemblyInfoInputs.cache
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.AssemblyInfo.cs
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.csproj.CoreCompileInputs.cache
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.dll
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\refint\LambdaEsLinqTananyag.dll
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.pdb
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.exe
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.deps.json
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.runtimeconfig.json
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.dll
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.pdb
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.genruntimeconfig.cache
+C:\Users\Rendszergazda\Desktop\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\ref\LambdaEsLinqTananyag.dll
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.exe
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.deps.json
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.runtimeconfig.json
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.dll
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.pdb
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.AssemblyInfoInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.AssemblyInfo.cs
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.csproj.CoreCompileInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.sourcelink.json
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.dll
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\refint\LambdaEsLinqTananyag.dll
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.pdb
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.genruntimeconfig.cache
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyag MÉGNINCSKÉSZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\ref\LambdaEsLinqTananyag.dll
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.exe
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.deps.json
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.runtimeconfig.json
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.dll
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\bin\Debug\net8.0\LambdaEsLinqTananyag.pdb
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.AssemblyInfoInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.AssemblyInfo.cs
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.csproj.CoreCompileInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.sourcelink.json
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.dll
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\refint\LambdaEsLinqTananyag.dll
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.pdb
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\LambdaEsLinqTananyag.genruntimeconfig.cache
+C:\Tanulás\Asztali_alkalmazasok_13\LambdaEsLinqTananyagKESZ\LambdaEsLinqTananyag\LambdaEsLinqTananyag\LambdaEsLinqTananyag\obj\Debug\net8.0\ref\LambdaEsLinqTananyag.dll
