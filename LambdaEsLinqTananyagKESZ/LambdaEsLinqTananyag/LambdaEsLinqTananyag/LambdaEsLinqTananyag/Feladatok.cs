@@ -209,17 +209,23 @@ namespace LambdaEsLinqTananyag
 
             //17. feladat
             Console.WriteLine("17. feladat");
-            List<int> numbernegyeleme = new List<int>();
-            for(var i = 0; i < numbers.Count; i++)
+            //List<int> numbernegyeleme = new List<int>();
+            //for(var i = 0; i < numbers.Count; i++)
+            //{
+            //    numbernegyeleme.Add(numbers[i]);
+            //    if(numbernegyeleme.Count == 4)
+            //    {
+            //        foreach(var n in numbernegyeleme)
+            //        {
+            //            Console.WriteLine(n);
+            //        }
+            //    }
+            //}
+
+            var negy = numbers.Take(4).ToList();
+            foreach (var student in negy)
             {
-                numbernegyeleme.Add(numbers[i]);
-                if(numbernegyeleme.Count == 4)
-                {
-                    foreach(var n in numbernegyeleme)
-                    {
-                        Console.WriteLine(n);
-                    }
-                }
+                Console.WriteLine(student);
             }
 
             //18. feladat

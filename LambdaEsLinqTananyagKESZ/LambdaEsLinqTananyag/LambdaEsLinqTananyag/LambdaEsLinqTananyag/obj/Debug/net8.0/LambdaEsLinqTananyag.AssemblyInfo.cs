@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LambdaEsLinqTananyag")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d108ea89c9637c5f58f28a2ed418568fe2c2318")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+725b4c8245a731b605facf9520eee5369c3bd216")]
 [assembly: System.Reflection.AssemblyProductAttribute("LambdaEsLinqTananyag")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LambdaEsLinqTananyag")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
