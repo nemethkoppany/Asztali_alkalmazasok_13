@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\LambdaEsLinqTananyagKESZ\\LambdaEsLinqTananyag\\LambdaEsLinqTananyag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09D343C4-E8CB-4810-9426-4CAC5C5634DE}|LambdaEsLinqTananyag\\LambdaEsLinqTananyag.csproj|c:\\tanul\u00E1s\\asztali_alkalmazasok_13\\lambdaeslinqtananyagkesz\\lambdaeslinqtananyag\\lambdaeslinqtananyag\\lambdaeslinqtananyag\\feladatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D343C4-E8CB-4810-9426-4CAC5C5634DE}|LambdaEsLinqTananyag\\LambdaEsLinqTananyag.csproj|solutionrelative:lambdaeslinqtananyag\\feladatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D343C4-E8CB-4810-9426-4CAC5C5634DE}|LambdaEsLinqTananyag\\LambdaEsLinqTananyag.csproj|c:\\tanul\u00E1s\\asztali_alkalmazasok_13\\lambdaeslinqtananyagkesz\\lambdaeslinqtananyag\\lambdaeslinqtananyag\\lambdaeslinqtananyag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D343C4-E8CB-4810-9426-4CAC5C5634DE}|LambdaEsLinqTananyag\\LambdaEsLinqTananyag.csproj|solutionrelative:lambdaeslinqtananyag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Feladatok.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\LambdaEsLinqTananyagKESZ\\LambdaEsLinqTananyag\\LambdaEsLinqTananyag\\LambdaEsLinqTananyag\\Feladatok.cs",
+              "RelativeDocumentMoniker": "LambdaEsLinqTananyag\\Feladatok.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\LambdaEsLinqTananyagKESZ\\LambdaEsLinqTananyag\\LambdaEsLinqTananyag\\LambdaEsLinqTananyag\\Feladatok.cs",
+              "RelativeToolTip": "LambdaEsLinqTananyag\\Feladatok.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAAOEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:38:23.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\LambdaEsLinqTananyagKESZ\\LambdaEsLinqTananyag\\LambdaEsLinqTananyag\\LambdaEsLinqTananyag\\Program.cs",
+              "RelativeDocumentMoniker": "LambdaEsLinqTananyag\\Program.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\LambdaEsLinqTananyagKESZ\\LambdaEsLinqTananyag\\LambdaEsLinqTananyag\\LambdaEsLinqTananyag\\Program.cs",
+              "RelativeToolTip": "LambdaEsLinqTananyag\\Program.cs",
+              "ViewState": "AgIAANwBAAAAAAAAAAAAADoCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:52:05.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

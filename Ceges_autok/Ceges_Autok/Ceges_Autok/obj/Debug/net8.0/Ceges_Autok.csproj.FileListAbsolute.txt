@@ -1,0 +1,15 @@
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\bin\Debug\net8.0\Ceges_Autok.exe
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\bin\Debug\net8.0\autok.txt
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\bin\Debug\net8.0\Ceges_Autok.deps.json
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\bin\Debug\net8.0\Ceges_Autok.runtimeconfig.json
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\bin\Debug\net8.0\Ceges_Autok.dll
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\bin\Debug\net8.0\Ceges_Autok.pdb
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\obj\Debug\net8.0\Ceges_Autok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\obj\Debug\net8.0\Ceges_Autok.AssemblyInfoInputs.cache
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\obj\Debug\net8.0\Ceges_Autok.AssemblyInfo.cs
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\obj\Debug\net8.0\Ceges_Autok.csproj.CoreCompileInputs.cache
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\obj\Debug\net8.0\Ceges_Autok.dll
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\obj\Debug\net8.0\refint\Ceges_Autok.dll
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\obj\Debug\net8.0\Ceges_Autok.pdb
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\obj\Debug\net8.0\Ceges_Autok.genruntimeconfig.cache
+C:\Users\Rendszergazda\Desktop\Ceges_Autok\Ceges_Autok\obj\Debug\net8.0\ref\Ceges_Autok.dll
