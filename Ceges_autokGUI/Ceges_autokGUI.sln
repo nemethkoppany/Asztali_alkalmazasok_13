@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceges_autokGUI", "Ceges_autokGUI\Ceges_autokGUI.csproj", "{3460DC3D-8826-48A9-98EC-7D7CD1C5EAFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3460DC3D-8826-48A9-98EC-7D7CD1C5EAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3460DC3D-8826-48A9-98EC-7D7CD1C5EAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3460DC3D-8826-48A9-98EC-7D7CD1C5EAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3460DC3D-8826-48A9-98EC-7D7CD1C5EAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0361F3BE-B146-4C49-9CA3-1FF80F6ABFDA}
+	EndGlobalSection
+EndGlobal
