@@ -1,0 +1,16 @@
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\bin\Debug\net8.0\BeatDesztival.exe
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\bin\Debug\net8.0\fellepesek.csv
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\bin\Debug\net8.0\BeatDesztival.deps.json
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\bin\Debug\net8.0\BeatDesztival.runtimeconfig.json
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\bin\Debug\net8.0\BeatDesztival.dll
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\bin\Debug\net8.0\BeatDesztival.pdb
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\obj\Debug\net8.0\BeatDesztival.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\obj\Debug\net8.0\BeatDesztival.AssemblyInfoInputs.cache
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\obj\Debug\net8.0\BeatDesztival.AssemblyInfo.cs
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\obj\Debug\net8.0\BeatDesztival.csproj.CoreCompileInputs.cache
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\obj\Debug\net8.0\BeatDesztival.sourcelink.json
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\obj\Debug\net8.0\BeatDesztival.dll
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\obj\Debug\net8.0\refint\BeatDesztival.dll
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\obj\Debug\net8.0\BeatDesztival.pdb
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\obj\Debug\net8.0\BeatDesztival.genruntimeconfig.cache
+C:\Users\Rendszergazda\Desktop\Asztali_alkalmazasok_13\BeatDesztival\BeatDesztival\obj\Debug\net8.0\ref\BeatDesztival.dll
