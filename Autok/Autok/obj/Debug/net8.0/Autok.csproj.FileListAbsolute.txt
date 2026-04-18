@@ -1,0 +1,15 @@
+H:\13\Asztali\Autok\Autok\bin\Debug\net8.0\Autok.exe
+H:\13\Asztali\Autok\Autok\bin\Debug\net8.0\jeladas.txt
+H:\13\Asztali\Autok\Autok\bin\Debug\net8.0\Autok.deps.json
+H:\13\Asztali\Autok\Autok\bin\Debug\net8.0\Autok.runtimeconfig.json
+H:\13\Asztali\Autok\Autok\bin\Debug\net8.0\Autok.dll
+H:\13\Asztali\Autok\Autok\bin\Debug\net8.0\Autok.pdb
+H:\13\Asztali\Autok\Autok\obj\Debug\net8.0\Autok.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\Asztali\Autok\Autok\obj\Debug\net8.0\Autok.AssemblyInfoInputs.cache
+H:\13\Asztali\Autok\Autok\obj\Debug\net8.0\Autok.AssemblyInfo.cs
+H:\13\Asztali\Autok\Autok\obj\Debug\net8.0\Autok.csproj.CoreCompileInputs.cache
+H:\13\Asztali\Autok\Autok\obj\Debug\net8.0\Autok.dll
+H:\13\Asztali\Autok\Autok\obj\Debug\net8.0\refint\Autok.dll
+H:\13\Asztali\Autok\Autok\obj\Debug\net8.0\Autok.pdb
+H:\13\Asztali\Autok\Autok\obj\Debug\net8.0\Autok.genruntimeconfig.cache
+H:\13\Asztali\Autok\Autok\obj\Debug\net8.0\ref\Autok.dll
