@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "3R0mzw6Fp+CUdRUR8ujMAW2zjp3U5C1PkT+kLK7UWnjIK8Vk8TSO8f7B6Lzo9sR87SoxXu6VwCBLXrw6CJpf0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rendszergazda\\Desktop\\Asztali_alkalmazasok_13\\Ceges_autok\\Ceges_Autok\\Ceges_Autok\\Ceges_Autok.csproj",
+=======
+  "dgSpecHash": "tV0wZQgGbS0=",
+  "success": true,
+  "projectFilePath": "C:\\Tanulás\\Asztali_alkalmazasok_13\\Ceges_autok\\Ceges_Autok\\Ceges_Autok\\Ceges_Autok.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }

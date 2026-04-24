@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\Ceges_autok\\Ceges_Autok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{750C0FEF-2C54-4E3D-9BD5-5F28E2F5781D}|Ceges_Autok\\Ceges_Autok.csproj|c:\\tanul\u00E1s\\asztali_alkalmazasok_13\\ceges_autok\\ceges_autok\\ceges_autok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C0FEF-2C54-4E3D-9BD5-5F28E2F5781D}|Ceges_Autok\\Ceges_Autok.csproj|solutionrelative:ceges_autok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C0FEF-2C54-4E3D-9BD5-5F28E2F5781D}|Ceges_Autok\\Ceges_Autok.csproj|c:\\tanul\u00E1s\\asztali_alkalmazasok_13\\ceges_autok\\ceges_autok\\ceges_autok\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C0FEF-2C54-4E3D-9BD5-5F28E2F5781D}|Ceges_Autok\\Ceges_Autok.csproj|solutionrelative:ceges_autok\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\Ceges_autok\\Ceges_Autok\\Ceges_Autok\\Auto.cs",
+              "RelativeDocumentMoniker": "Ceges_Autok\\Auto.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\Ceges_autok\\Ceges_Autok\\Ceges_Autok\\Auto.cs",
+              "RelativeToolTip": "Ceges_Autok\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:37:46.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\Ceges_autok\\Ceges_Autok\\Ceges_Autok\\Program.cs",
+              "RelativeDocumentMoniker": "Ceges_Autok\\Program.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\Ceges_autok\\Ceges_Autok\\Ceges_Autok\\Program.cs",
+              "RelativeToolTip": "Ceges_Autok\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:37:46.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

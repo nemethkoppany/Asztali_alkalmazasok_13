@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\RealEstateGUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\RealEstateGUI\\realestategui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|c:\\tanul\u00E1s\\asztali_alkalmazasok_13\\realestategui\\realestategui\\realestategui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|solutionrelative:realestategui\\realestategui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|c:\\tanul\u00E1s\\asztali_alkalmazasok_13\\realestategui\\realestategui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2CB2CEBC-9E25-4FF7-B7E4-603CC32417E2}|RealEstateGUI\\RealEstateGUI.csproj|solutionrelative:realestategui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 216,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\RealEstateGUI\\RealEstateGUI\\RealEstateGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "RealEstateGUI\\RealEstateGUI\\Form1.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\RealEstateGUI\\RealEstateGUI\\RealEstateGUI\\Form1.cs",
+              "RelativeToolTip": "RealEstateGUI\\RealEstateGUI\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwD0AAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:57:35.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\RealEstateGUI\\RealEstateGUI\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "RealEstateGUI\\Form1.Designer.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\RealEstateGUI\\RealEstateGUI\\Form1.cs",
               "RelativeDocumentMoniker": "RealEstateGUI\\Form1.cs",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\RealEstateGUI\\RealEstateGUI\\Form1.cs",
               "RelativeDocumentMoniker": "RealEstateGUI\\Form1.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DatabaseController.cs",
               "DocumentMoniker": "C:\\Tanul\u00E1s\\Asztali_alkalmazasok_13\\RealEstateGUI\\RealEstateGUI\\DatabaseController.cs",
               "RelativeDocumentMoniker": "RealEstateGUI\\DatabaseController.cs",
@@ -80,8 +97,7 @@
               "RelativeToolTip": "RealEstateGUI\\DatabaseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T09:56:34.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T09:56:34.168Z"
             }
           ]
         }

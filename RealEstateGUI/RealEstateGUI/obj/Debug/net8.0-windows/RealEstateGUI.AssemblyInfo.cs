@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealEstateGUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9502ac22a0f8fa2b4ec033b093dc1c2ad9c6a9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be4f4e9b13dda9a9e2452ae50b0d397f6c16c69d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealEstateGUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealEstateGUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

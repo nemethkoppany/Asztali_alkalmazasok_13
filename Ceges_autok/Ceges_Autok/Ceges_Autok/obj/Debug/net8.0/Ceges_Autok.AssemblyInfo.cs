@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ceges_Autok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be4f4e9b13dda9a9e2452ae50b0d397f6c16c69d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ceges_Autok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ceges_Autok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
