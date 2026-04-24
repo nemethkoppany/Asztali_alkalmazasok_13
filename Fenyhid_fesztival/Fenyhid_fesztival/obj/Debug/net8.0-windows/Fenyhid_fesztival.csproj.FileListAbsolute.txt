@@ -1,0 +1,17 @@
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\bin\Debug\net8.0-windows\Fenyhid_fesztival.exe
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\bin\Debug\net8.0-windows\Fenyhid_fesztival.deps.json
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\bin\Debug\net8.0-windows\Fenyhid_fesztival.runtimeconfig.json
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\bin\Debug\net8.0-windows\Fenyhid_fesztival.dll
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\bin\Debug\net8.0-windows\Fenyhid_fesztival.pdb
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\obj\Debug\net8.0-windows\Fenyhid_fesztival.Form1.resources
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\obj\Debug\net8.0-windows\Fenyhid_fesztival.csproj.GenerateResource.cache
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\obj\Debug\net8.0-windows\Fenyhid_fesztival.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\obj\Debug\net8.0-windows\Fenyhid_fesztival.AssemblyInfoInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\obj\Debug\net8.0-windows\Fenyhid_fesztival.AssemblyInfo.cs
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\obj\Debug\net8.0-windows\Fenyhid_fesztival.csproj.CoreCompileInputs.cache
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\obj\Debug\net8.0-windows\Fenyhid_fesztival.sourcelink.json
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\obj\Debug\net8.0-windows\Fenyhid_fesztival.dll
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\obj\Debug\net8.0-windows\refint\Fenyhid_fesztival.dll
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\obj\Debug\net8.0-windows\Fenyhid_fesztival.pdb
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\obj\Debug\net8.0-windows\Fenyhid_fesztival.genruntimeconfig.cache
+C:\Tanulás\Asztali_alkalmazasok_13\Fenyhid_fesztival\Fenyhid_fesztival\obj\Debug\net8.0-windows\ref\Fenyhid_fesztival.dll

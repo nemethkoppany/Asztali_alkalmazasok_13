@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fenyhid_fesztival/1.0.0": {
+        "runtime": {
+          "Fenyhid_fesztival.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fenyhid_fesztival/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
